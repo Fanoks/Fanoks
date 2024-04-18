@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Fanoks
+- 👀 I’m interested in Cubersec, gamedev
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on nothing (for now)
+- 📫 How to reach me Discord: fanox_uwu
+- 😄 Pronouns: He/Him
