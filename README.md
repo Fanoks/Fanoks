@@ -11,10 +11,6 @@
 
 - 📫 How to reach me **Via Discord**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <a href="https://www.python.org" target="_blank" rel="noreferrer" style="color: argb(0, 0, 0, 0);">
