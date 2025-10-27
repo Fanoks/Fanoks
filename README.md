@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Nothing (for now)**
 
-- 📫 How to reach me **Via Discord**
+- 📫 How to reach me **Via Discord** (fanox_uwu)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
