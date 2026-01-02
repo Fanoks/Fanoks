@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fanox</h1>
 <h3 align="center">A begginer programer from Poland</h3>
 
-- 🔭 I’m currently working on [Mod to Hearts of Iron IV](https://github.com/Fanoks/The_Witcher_Time_of_Sword_and_Axe)
+- 🔭 I’m currently working on [Mod to Hearts of Iron IV](https://steamcommunity.com/sharedfiles/filedetails/?id=3542254777)
 
 - 🌱 I’m currently learning **Rust, Machine learning in Python, Cybersec**
 
