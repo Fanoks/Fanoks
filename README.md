@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **Nothing (for now)**
 
-- 📫 How to reach me **Via Discord** (fanox_uwu)
+- 📫 How to reach me **Via Discord** (fanox_uwu) or **[Linkedin](https://www.linkedin.com/in/jakub-konieczny-x/)**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
